@@ -1,0 +1,37 @@
+{
+    "message": "This is the Location",
+    "data": [
+        {
+            "ids_location": 1,
+            "address1": "Kamboja",
+            "address2": "Keduri",
+            "address3": "Kalimantan",
+            "city": "Jakarta",
+            "zip_code": "1234567",
+            "state": "Indonesia",
+            "display_address": "puri indah"
+        }
+    ],
+
+    "message": "This is the Attributes.",
+    "data": [
+        {
+            "ids_attribute": 1,
+            "ids_business": 1,
+            "attribute_key": "hot_and_new",
+            "attribute_value": 1
+        }
+    ],
+
+        "message": "This is the Category",
+        "data": [
+            {
+                "ids_category": 1,
+                "ids_business": 1,
+                "attribute_value_categories": 1,
+                "attribute_key_categories": "french"
+            }
+        ]
+
+
+}
